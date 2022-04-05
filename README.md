@@ -1,7 +1,9 @@
 # r/Place 2022 Bot
 This custom-written bot valiantly defended the PolyBridge location and other personal banners for me.
 
-All accounts must be added to script apps [here](https://reddit.com/prefs/apps), limit of 20 accounts per app. The bot ignores pixels in reference images colours exactly (80, 20, 60) / #50143c.
+NOTE: This project is effectively here for archival purposes.
+
+All accounts must be added to script apps [here](https://reddit.com/prefs/apps), limit of 20 accounts per app. The bot ignores pixels in reference images that are coloured exactly (80, 20, 60) / #50143c.
 
 # Config
 `board` is the board index:
