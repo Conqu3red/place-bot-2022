@@ -1,0 +1,5 @@
+.vscode
+__pycache__
+config.json
+images/downloaded
+experimental

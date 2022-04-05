@@ -1,0 +1,29 @@
+{
+    "image": "images/reference/pb.png",
+    "offset": [823, 769],
+    "board": 2,
+    "apps": [
+        {
+            "app_id": "app id here",
+            "app_secret": "app secret here"
+        },
+        {
+            "app_id": "app id 2 here",
+            "app_secret": "app secret 2 here"
+        }
+    ],
+    "accounts": [
+        {
+            "username": "username",
+            "password": "password",
+            "offset": [0, 0],
+            "app": 0
+        },
+        {
+            "username": "username2",
+            "password": "password2",
+            "offset": [0, 0],
+            "app": 1
+        }
+    ]
+}
